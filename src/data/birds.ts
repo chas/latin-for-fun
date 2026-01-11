@@ -1,0 +1,58 @@
+export const BIRD_CARDS = [
+    {
+        id: "northern-cardinal",
+        common: "Northern Cardinal",
+        sci: "Cardinalis cardinalis",
+        fun: "Double-cardinal! Genus and species match - like a perfect streak.",
+        badge: "Backyard Boss",
+    },
+    {
+        id: "american-robin",
+        common: "American Robin",
+        sci: "Turdus migratorius",
+        fun: "Migratorius = ‘traveler.’ Robins are basically tiny commuters.",
+        badge: "Worm Wrangler",
+    },
+    {
+        id: "bald-eagle",
+        common: "Bald Eagle",
+        sci: "Haliaeetus leucocephalus",
+        fun: "Leuco = white, cephalus = head. Latin/Greek naming is a cheat code.",
+        badge: "Sky Legend",
+    },
+    {
+        id: "barn-owl",
+        common: "Barn Owl",
+        sci: "Tyto alba",
+        fun: "Alba = white. Quick win word you’ll see in names a lot.",
+        badge: "Night Ninja",
+    },
+    {
+        id: "peregrine-falcon",
+        common: "Peregrine Falcon",
+        sci: "Falco peregrinus",
+        fun: "Peregrinus = wanderer. Also: absurdly fast.",
+        badge: "Speed Demon",
+    },
+    {
+        id: "red-tailed-hawk",
+        common: "Red-tailed Hawk",
+        sci: "Buteo jamaicensis",
+        fun: "Jamaicensis = ‘from Jamaica.’ Place names show up a lot.",
+        badge: "Thermal Surfer",
+    },
+    {
+        id: "mallard",
+        common: "Mallard",
+        sci: "Anas platyrhynchos",
+        fun: "Platy = flat, rhynchos = beak. Flat-beak duck - accurate.",
+        badge: "Pond Pro",
+    },
+    {
+        id: "great-blue-heron",
+        common: "Great Blue Heron",
+        sci: "Ardea herodias",
+        fun: "Ardea is the heron genus - feels like a spell, right?",
+        badge: "Marsh Stalker",
+    },
+];
